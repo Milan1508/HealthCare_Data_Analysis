@@ -16,8 +16,8 @@ This Project will be providing insights into the following qustions:
 
 * Why Are People Not Showing Up?
 * Does scholarship affect patient ability to show up?
-Does SMS alert impacts patient availability for their appointment?
-Is there any relationship between distance from patient neighbourhood to the hospital and their showing up for appointments?
-whats the time difference between a patient schedule date and his appointment date. What impact does this have on the patient ability to show up?
-Is there any relationship between patient age and their ability to show up?
-Does gender play any role in patient missing their appointment?
+* Does SMS alert impacts patient availability for their appointment?
+* Is there any relationship between distance from patient neighbourhood to the hospital and their showing up for appointments?
+* whats the time difference between a patient schedule date and his appointment date. What impact does this have on the patient ability to show up?
+* Is there any relationship between patient age and their ability to show up?
+* Does gender play any role in patient missing their appointment?
