@@ -12,9 +12,10 @@ Identifying factors responsible to no-show will definitely help Hospital better 
 
 This Project will be providing insights into the following qustions:
 
-What percentage of people showed up compared to those that didnt?
-Why Are People Not Showing Up?
-Does scholarship affect patient ability to show up?
+* What percentage of people showed up compared to those that didnt?
+
+* Why Are People Not Showing Up?
+* Does scholarship affect patient ability to show up?
 Does SMS alert impacts patient availability for their appointment?
 Is there any relationship between distance from patient neighbourhood to the hospital and their showing up for appointments?
 whats the time difference between a patient schedule date and his appointment date. What impact does this have on the patient ability to show up?
